@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minesweeper-game-windows-xp/static/css/main.d67f1d1b.css",
+    "main.js": "/minesweeper-game-windows-xp/static/js/main.715127de.js",
+    "index.html": "/minesweeper-game-windows-xp/index.html",
+    "main.d67f1d1b.css.map": "/minesweeper-game-windows-xp/static/css/main.d67f1d1b.css.map",
+    "main.715127de.js.map": "/minesweeper-game-windows-xp/static/js/main.715127de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d67f1d1b.css",
+    "static/js/main.715127de.js"
+  ]
+}
