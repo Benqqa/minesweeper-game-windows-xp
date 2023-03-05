@@ -1,0 +1,143 @@
+.sprite {
+    background: url('../sprites/minesweeper-sprites_9TPZzv3.png') no-repeat;
+    background-size: 330px 200px;
+}
+
+.numeric {
+    width: 31px;
+    height: 55px;
+}
+
+.numeric_1 {
+    background-position: 0px 0px;
+}
+
+.numeric_2 {
+    background-position: -33px 0px;
+}
+
+.numeric_3 {
+    background-position: -66px 0px;
+}
+
+.numeric_4 {
+    background-position: -100px 0px;
+}
+
+.numeric_5 {
+    background-position: -133px 0px;
+}
+
+.numeric_6 {
+    background-position: -166px 0px;
+}
+
+.numeric_7 {
+    background-position: -200px 0px;
+}
+
+.numeric_8 {
+    background-position: -233px 0px;
+}
+
+.numeric_9 {
+    background-position: -266px 0px;
+}
+
+.numeric_0 {
+    background-position: -299px 0px;
+}
+
+.smile {
+    width: 60px;
+    height: 60px;
+}
+
+.smile_game_in_progress {
+    background-position: -1px -58px;
+}
+
+.smile_game_in_progress_focus {
+    background-position: -64px -58px;
+}
+
+.smile_cell_focus {
+    background-position: -129px -58px;
+}
+
+.smile_game_win {
+    background-position: -193px -58px;
+}
+
+.smile_game_lose {
+    background-position: -257px -58px;
+}
+
+.cell {
+    width: 38px;
+    height: 38px;
+}
+
+.close_cell {
+    background-position: -0px -121px;
+}
+
+.empty_cell {
+    background-position: -40px -121px;
+}
+
+.flag_cell {
+    background-position: -81px -121px;
+}
+
+.question_close_cell {
+    background-position: -121px -121px;
+}
+
+.question_open_cell {
+    background-position: -161px -121px;
+}
+
+.bomb_cell {
+    background-position: -202px -121px;
+}
+
+.bomb_bang_cell {
+    background-position: -242px -121px;
+}
+
+.bomb_cross_cell {
+    background-position: -282px -121px;
+}
+
+.number_1_cell {
+    background-position: 0px -162px;
+}
+
+.number_2_cell {
+    background-position: -40px -162px;
+}
+
+.number_3_cell {
+    background-position: -81px -162px;
+}
+
+.number_4_cell {
+    background-position: -121px -162px;
+}
+
+.number_5_cell {
+    background-position: -161px -162px;
+}
+
+.number_6_cell {
+    background-position: -202px -162px;
+}
+
+.number_7_cell {
+    background-position: -242px -162px;
+}
+
+.number_8_cell {
+    background-position: -282px -162px;
+}

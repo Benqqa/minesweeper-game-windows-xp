@@ -1,0 +1,8 @@
+.field {
+    display: grid;
+    border-color: #777 #fff #fff #777;
+    border-style: solid;
+    border-width: 4px;
+    box-sizing: border-box;
+    margin-top: 12px;
+}

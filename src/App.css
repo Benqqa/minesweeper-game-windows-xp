@@ -1,0 +1,11 @@
+.wrapper_game {
+    border-color: #fff #777 #777 #fff;
+    border-style: solid;
+    border-width: 4px;
+    margin: auto;
+    padding: 12px;
+    width: -webkit-min-content;
+    width: min-content;
+    background-color: #c0c0c0;
+    box-sizing: border-box;
+}
